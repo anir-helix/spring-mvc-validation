@@ -11,9 +11,9 @@ Advance Validation Technic with Annotation process*, we have also shown features
 
 ### Steps to Configure Project:
 
-1. Open Eclipse IDE installed in your system.
-2. Import the Project in to you system.
-3. Need to add Lib jar into classpath, those Jar files are provided under following folder:  "***lib***".
+1. Open Eclipse IDE installed in your system and create a "*Dynamic Web Project".
+2. Once created copy "**src**" & "**WebContent**" folder into the Project create.
+3. Need to add Lib jar into classpath, those Jar files are provided under following folder:  "***WebContent/WEB-INF/lib***".
 4. Now right click on project root in Eclipse, and go to properties. 
 5. Select "*Java Build Path*" and the select tab "***Libraries***"
 6. Click on "*Add JARs...*" button and got to project based "**lib**" folder and select the all the jar files and add., '*Apply and Close*'
@@ -31,7 +31,7 @@ All the application are available under package named:
 As this a Web Application. This Application need to be run on **Tomcat Server**.
 Deploy the project into Tomcat Server to run. 
 Once deployed open the following link into browser: 
-*http://localhost:8080/spring-mvc-demo/* ; This is the Landing page with linked to other features.
+*http://localhost:8080/spring-mvc-validation/* ; This is the Landing page with linked to other features.
 
 
 ## Creators
