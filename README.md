@@ -11,7 +11,7 @@ Advance Validation Technic with Annotation process*, we have also shown features
 
 ### Steps to Configure Project:
 
-1. Open Eclipse IDE installed in your system and create a "*Dynamic Web Project".
+1. Open Eclipse IDE installed in your system and create a "*Dynamic Web Project*".
 2. Once created copy "**src**" & "**WebContent**" folder into the Project create.
 3. Need to add Lib jar into classpath, those Jar files are provided under following folder:  "***WebContent/WEB-INF/lib***".
 4. Now right click on project root in Eclipse, and go to properties. 
